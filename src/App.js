@@ -6,7 +6,7 @@ import FormTranslator from './FormTranslator';
 function App() {
   return (
     <div id="App">
-      <FormTranslator>  </FormTranslator>
+      <FormTranslator></FormTranslator>
     </div>
   );
 }
