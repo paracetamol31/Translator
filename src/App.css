@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.textFields {
+  min-height: 200px;
+  width: 300px;
+  float: right;
+}
+
+#root {
+  width: 450px;
+}
+
+.labels {
+  float: left;
+  margin: 10px;
+}
+
+.wrapperTextFields {
+  float: left;
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+}
+
+.buttonTranslator {
+  float: right;
+  margin: 10px 0px 10px 0px;
+  height: 30px;
+  width: 300px;
+}
